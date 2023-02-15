@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crypto_webapp/static/css/main.eb2b0853.css",
+    "main.js": "/crypto_webapp/static/js/main.1bc391be.js",
+    "static/media/hero-img.jpg": "/crypto_webapp/static/media/hero-img.b56c6245d834b4cce8a8.jpg",
+    "static/media/trade.png": "/crypto_webapp/static/media/trade.a2c09083fbde76e9cac2.png",
+    "static/media/btc-img.png": "/crypto_webapp/static/media/btc-img.861a3df758f74e4db479.png",
+    "index.html": "/crypto_webapp/index.html",
+    "main.eb2b0853.css.map": "/crypto_webapp/static/css/main.eb2b0853.css.map",
+    "main.1bc391be.js.map": "/crypto_webapp/static/js/main.1bc391be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb2b0853.css",
+    "static/js/main.1bc391be.js"
+  ]
+}
